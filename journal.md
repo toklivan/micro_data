@@ -9,3 +9,9 @@
 - Aujourd'hui, j'ai manipule : un dictionnaire representant des ventes par jour.
 - J'ai compris que : chaque element du dictionnaire a sa cle et sa valeur. On peut manipuler les donnees du dictionnaire.
 - Si c'etait une entreprise je deciderais : d'analyser les causes qui influent sur le nombre de ventes, afin d'adapter une strategie de croissance des ventes.
+
+## Day 03
+
+- Aujourd'hui, j'ai manipule : des lignes de texte au format CSV (jour,vente) transformees en donnes exploitables.
+- J'ai compris aue : des donnees "brutes" doivent etre decoupees (split) et converties (int) avant de pouvoir etre analysees.
+- Si c'etait une entreprise, je deciderais : de surveiller chaque jour les ventes extraites de l'export pour reperer rapidement les jours faibles et agir (promo, horaires, offre).
