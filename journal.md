@@ -15,3 +15,9 @@
 - Aujourd'hui, j'ai manipule : des lignes de texte au format CSV (jour,vente) transformees en donnes exploitables.
 - J'ai compris aue : des donnees "brutes" doivent etre decoupees (split) et converties (int) avant de pouvoir etre analysees.
 - Si c'etait une entreprise, je deciderais : de surveiller chaque jour les ventes extraites de l'export pour reperer rapidement les jours faibles et agir (promo, horaires, offre).
+
+## Day 04
+
+- Aujourd'hui, j'ai manipule : des donnees brutes avec des espaces inutiles que j'ai nettoyes avant analyse.
+- J'ai compris que : sans nettoyage, les donnees peuvent etre mal interpretees ou inutilisables pour les calculs.
+- Si c'etait une entreprise, je deciderais : de mettre en place un controle simple de qualite des donnees avant tout calcul d'indicateurs.
