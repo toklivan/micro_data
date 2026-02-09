@@ -21,3 +21,9 @@
 - Aujourd'hui, j'ai manipule : des donnees brutes avec des espaces inutiles que j'ai nettoyes avant analyse.
 - J'ai compris que : sans nettoyage, les donnees peuvent etre mal interpretees ou inutilisables pour les calculs.
 - Si c'etait une entreprise, je deciderais : de mettre en place un controle simple de qualite des donnees avant tout calcul d'indicateurs.
+
+## Day 05
+
+- Aujourd'hui, j'ai manipule : du code existant que j'ai relu et reecrit pour le rendre plus simples et lisible.
+- J'ai compris que : on peut ameliorer la clarte d'un code sans changer ce qu'il calcule.
+- Si c'etait une entreprise, je deciderais : d'imposer des regles de lisibilite pour que les calculs soient compris et donc utilises dans les decisions.
