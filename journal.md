@@ -27,3 +27,9 @@
 - Aujourd'hui, j'ai manipule : du code existant que j'ai relu et reecrit pour le rendre plus simples et lisible.
 - J'ai compris que : on peut ameliorer la clarte d'un code sans changer ce qu'il calcule.
 - Si c'etait une entreprise, je deciderais : d'imposer des regles de lisibilite pour que les calculs soient compris et donc utilises dans les decisions.
+
+## Day 06
+
+- Aujourd'hui, j'ai manipule : une liste de temps d'attente clients en caisse.
+- J'ai compris que : on peut calculer des indicateurs simples (total, moyenne, min, max) avec des boucles de base.
+- Si c'etait une entreprise, je deciderais : d'ouvrir une caisse supplementaire quand le temps d'attente depasse un seuil.
