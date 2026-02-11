@@ -33,3 +33,9 @@
 - Aujourd'hui, j'ai manipule : une liste de temps d'attente clients en caisse.
 - J'ai compris que : on peut calculer des indicateurs simples (total, moyenne, min, max) avec des boucles de base.
 - Si c'etait une entreprise, je deciderais : d'ouvrir une caisse supplementaire quand le temps d'attente depasse un seuil.
+
+## Day 07
+
+- Aujourd'hui, j'ai manipule : un dictionnaire representant des visites par page d'un site.
+- J'ai compris que : pour trouver un maximum ou un minimum utile, il faut garder la cle associee a la valeur.
+- Si c'etait une entreprise, je deciderais : d'optimiser en priorite la page la moins visitee pour ameliorer la conversion.
