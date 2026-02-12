@@ -39,3 +39,9 @@
 - Aujourd'hui, j'ai manipule : un dictionnaire representant des visites par page d'un site.
 - J'ai compris que : pour trouver un maximum ou un minimum utile, il faut garder la cle associee a la valeur.
 - Si c'etait une entreprise, je deciderais : d'optimiser en priorite la page la moins visitee pour ameliorer la conversion.
+
+## Day 08
+
+- Aujourd'hui, j'ai manipule : des lignes CSV representant un chiffre d'affaires par jour.
+- J'ai compris que : on peut transformer un export brut en indicateurs simples (total, moyenne, jour fort/faible).
+- Si c'estait une entreprise, je deciderais : d'agir immediatement sur les jours a 0 de chiffre d'affaires (incident, fermeture, probleme d'offre).
