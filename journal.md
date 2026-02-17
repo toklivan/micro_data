@@ -45,3 +45,9 @@
 - Aujourd'hui, j'ai manipule : des lignes CSV representant un chiffre d'affaires par jour.
 - J'ai compris que : on peut transformer un export brut en indicateurs simples (total, moyenne, jour fort/faible).
 - Si c'estait une entreprise, je deciderais : d'agir immediatement sur les jours a 0 de chiffre d'affaires (incident, fermeture, probleme d'offre).
+
+## Day 09
+
+- Aujourd'hui, j'ai manipule : des lignes de donnees brutes avec des espaces parasites.
+- J'ai compris que : le nettoyage est indispensable avant toute transformation ou calcul.
+- Si c'etait une entreprise, je deciderais : de bloquer les indicateurs tant que les donnees d'export ne sont pas propres.
