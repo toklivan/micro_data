@@ -51,3 +51,9 @@
 - Aujourd'hui, j'ai manipule : des lignes de donnees brutes avec des espaces parasites.
 - J'ai compris que : le nettoyage est indispensable avant toute transformation ou calcul.
 - Si c'etait une entreprise, je deciderais : de bloquer les indicateurs tant que les donnees d'export ne sont pas propres.
+
+## Day 10
+
+- Aujourd'hui, j'ai manipule : du code existant que j'ai reecrit pour le rendre plus clair.
+- J'ai compris que : des noms explicites et une structure simple evitent les erreurs et facilitent la relecture.
+- Si c'etait une entreprise, je deciderais : de standardiser la lisibilite du code pour que les calculs soient fiables et reutilisables.
