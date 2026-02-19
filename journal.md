@@ -57,3 +57,9 @@
 - Aujourd'hui, j'ai manipule : du code existant que j'ai reecrit pour le rendre plus clair.
 - J'ai compris que : des noms explicites et une structure simple evitent les erreurs et facilitent la relecture.
 - Si c'etait une entreprise, je deciderais : de standardiser la lisibilite du code pour que les calculs soient fiables et reutilisables.
+
+## Day 11
+
+- Aujourd'hui, j'ai manipule : une liste de volumes de commandes par jour.
+- J'ai compris que : on peut extraire des indicateurs simples (total, moyenne, min, max) a partir d'une serie de valeurs.
+- Si c'etait une entreprise, je deciderais : d'anticiper les jours de forte demande pour mieux repartir la charge de travail.

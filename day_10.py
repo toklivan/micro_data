@@ -63,4 +63,5 @@ print("Best day:", best_day, best_amount)
 # Business analysis.
 
 print("\n=== Business Decision ===\n")
-print("We rewrite working code so it stays readable and maintainable for the team.")
+print("We rewrite working code so it stays readable \
+      and maintainable for the team.")
