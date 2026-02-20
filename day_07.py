@@ -59,5 +59,6 @@ print(f"The least visited page is: {min_page} with {min_visit}")
 # Business analysis.
 
 print("\n=== Business Decision ===\n")
-print("The page that deserve the most optimization as a priority is the contact page.")
+print("The page that deserve the most optimization \
+      as a priority is the contact page.")
 print("Because it generate the fewest visits.")

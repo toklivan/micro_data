@@ -63,3 +63,9 @@
 - Aujourd'hui, j'ai manipule : une liste de volumes de commandes par jour.
 - J'ai compris que : on peut extraire des indicateurs simples (total, moyenne, min, max) a partir d'une serie de valeurs.
 - Si c'etait une entreprise, je deciderais : d'anticiper les jours de forte demande pour mieux repartir la charge de travail.
+
+## Day 12
+
+- Aujourd'hui, j'ai manipule : un dictionnaire de vente par produit.
+- J'ai compris que : pour identifier un produit fort ou faible, il faut garder la cle associee a la valeur.
+- Si c'etait un entreprise, je deciderais : de mettre en avant le produit le plus vendu et d'analyser pourquoi les moins vendus performent moins.
