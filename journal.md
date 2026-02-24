@@ -69,3 +69,9 @@
 - Aujourd'hui, j'ai manipule : un dictionnaire de vente par produit.
 - J'ai compris que : pour identifier un produit fort ou faible, il faut garder la cle associee a la valeur.
 - Si c'etait un entreprise, je deciderais : de mettre en avant le produit le plus vendu et d'analyser pourquoi les moins vendus performent moins.
+
+## Day 13
+
+- Aujourd'hui, j'ai manipule : des lignes CSV simples representant des scores par cle.
+- J'ai compris que : pour identifier un maximum ou minimum utile, il faut conserver la cle associee a la valeur.
+- Si c'etait une entreprise, je deciderais : de traiter en priorite les cles avec un score nul ou tres faible.
