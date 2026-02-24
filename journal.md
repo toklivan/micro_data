@@ -75,3 +75,9 @@
 - Aujourd'hui, j'ai manipule : des lignes CSV simples representant des scores par cle.
 - J'ai compris que : pour identifier un maximum ou minimum utile, il faut conserver la cle associee a la valeur.
 - Si c'etait une entreprise, je deciderais : de traiter en priorite les cles avec un score nul ou tres faible.
+
+## Day 14
+
+- Aujourd'hui, j'ai manipule : des donnees simples mal formatees que j'ai nettotees avant utilisation.
+- J'ai compris que : une donnee sale peut fausser des calculs pourtant simples.
+- Si c'estait une entreprise, je deciderais : de mettre un controle de format avant d;utiliser les chiffres dans des decisions.
