@@ -81,3 +81,9 @@
 - Aujourd'hui, j'ai manipule : des donnees simples mal formatees que j'ai nettotees avant utilisation.
 - J'ai compris que : une donnee sale peut fausser des calculs pourtant simples.
 - Si c'estait une entreprise, je deciderais : de mettre un controle de format avant d;utiliser les chiffres dans des decisions.
+
+## Day 15
+
+- Aujoud'hui, j'ai manipule : du code existant que j'ai reecrit avec des noms explicites.
+- J'ai compris que : un code clair reduit les erreurs et accelere la maintenance.
+- Si c'etait une entreprise, je deciderais : de standardiser l'ecriture du code pour que les calculs soient compris et donc utilises.
