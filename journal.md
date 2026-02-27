@@ -87,3 +87,9 @@
 - Aujoud'hui, j'ai manipule : du code existant que j'ai reecrit avec des noms explicites.
 - J'ai compris que : un code clair reduit les erreurs et accelere la maintenance.
 - Si c'etait une entreprise, je deciderais : de standardiser l'ecriture du code pour que les calculs soient compris et donc utilises.
+
+## Day 16
+
+- Aujourd'hui, j'ai manipule : une liste de montants representant des paniers clients.
+- J'ai compris que on peut calculer des indicateurs simples (total, moyenne, min, max) uniquement avec des boucles.
+- Si c'etait une entreprise, je deciderais : de mettre en place une offre complementaire pour augmenter le panier moyen.
