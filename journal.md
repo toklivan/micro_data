@@ -93,3 +93,9 @@
 - Aujourd'hui, j'ai manipule : une liste de montants representant des paniers clients.
 - J'ai compris que on peut calculer des indicateurs simples (total, moyenne, min, max) uniquement avec des boucles.
 - Si c'etait une entreprise, je deciderais : de mettre en place une offre complementaire pour augmenter le panier moyen.
+
+## Day 17
+
+- Aujoud'hui, j'ai manipule : un doctionnaire representant des depenses par categorie.
+- J'ai compris que : identifier la categorie la plus couteuse aide a cibler les leviers de rentabilite.
+- Si c'etait une entreprise, je deciderais : d'analyser en priorite la depense la plus elevee pour optimiser la marge.
