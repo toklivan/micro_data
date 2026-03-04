@@ -99,3 +99,9 @@
 - Aujoud'hui, j'ai manipule : un doctionnaire representant des depenses par categorie.
 - J'ai compris que : identifier la categorie la plus couteuse aide a cibler les leviers de rentabilite.
 - Si c'etait une entreprise, je deciderais : d'analyser en priorite la depense la plus elevee pour optimiser la marge.
+
+## Day 18
+
+- Today I worked with CSV-style data.
+- I learned how to convert rows into a dictionary and compute basic metrics such as total sales, average sales, and best-selling product.
+- Business insight : Identifying best and worst performing products helps guide marketing and promotion decisions.
