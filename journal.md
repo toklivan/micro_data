@@ -105,3 +105,9 @@
 - Today I worked with CSV-style data.
 - I learned how to convert rows into a dictionary and compute basic metrics such as total sales, average sales, and best-selling product.
 - Business insight : Identifying best and worst performing products helps guide marketing and promotion decisions.
+
+## Day 19
+
+- Aujourd'hui, j'ai manipule des donnees CSV mal formatees avec des espaces inutiles.
+- J'ai appris que nettoyer les donnees avent de les utiliser est essentiel pour eviter des erreurs de calcul ou d'interpretation.
+- Si c'etait une entreprise, je mettrais en place une etape de validation ou de nettoyage des donnees avant toute analyse ou prise de decision.
