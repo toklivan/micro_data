@@ -111,3 +111,9 @@
 - Aujourd'hui, j'ai manipule des donnees CSV mal formatees avec des espaces inutiles.
 - J'ai appris que nettoyer les donnees avent de les utiliser est essentiel pour eviter des erreurs de calcul ou d'interpretation.
 - Si c'etait une entreprise, je mettrais en place une etape de validation ou de nettoyage des donnees avant toute analyse ou prise de decision.
+
+## Day 20
+
+- Aujourd'hui j'ai manipule : des lignes CSV ou un meme produit apparaissait plusieurs fois.
+- J'ai compris que : il faut regrouper et additionner les lignes d'un meme produit avant d'analyser les ventes.
+- Si c'etatis une entreprise, je deciderais : de consolider les ventes par produits avant de choisir quoi mettre en avant.
