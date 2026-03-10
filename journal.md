@@ -117,3 +117,9 @@
 - Aujourd'hui j'ai manipule : des lignes CSV ou un meme produit apparaissait plusieurs fois.
 - J'ai compris que : il faut regrouper et additionner les lignes d'un meme produit avant d'analyser les ventes.
 - Si c'etatis une entreprise, je deciderais : de consolider les ventes par produits avant de choisir quoi mettre en avant.
+
+## Day 21
+
+- Aujourd'hui, j'ai manipule : une liste representant le nombre de clients par jour.
+- J'ai compris : comment parcourir une liste pour calculer un total, une moyenne, un maximum et un minimum.
+- Si c'etait une entreprise, je deciderais : d'identifier les jours les plus faibles et tester des promotions pour augmenter la frequentation.
