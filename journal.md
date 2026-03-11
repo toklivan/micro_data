@@ -123,3 +123,9 @@
 - Aujourd'hui, j'ai manipule : une liste representant le nombre de clients par jour.
 - J'ai compris : comment parcourir une liste pour calculer un total, une moyenne, un maximum et un minimum.
 - Si c'etait une entreprise, je deciderais : d'identifier les jours les plus faibles et tester des promotions pour augmenter la frequentation.
+
+## Day 22
+
+- Aujourd'hui, j'ai manipule : des lignes CSV simples et un dictionnaire d'agregation.
+- J'ai compris : comment regouper plusiers lignes d'un meme produit pour obtenir un volume total fiable.
+- Si c'etait une entreprise, je deciderais : quels produits poussent reelement les ventes avant de decider quoi promouvoir ou stocker.
