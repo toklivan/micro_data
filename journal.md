@@ -129,3 +129,9 @@
 - Aujourd'hui, j'ai manipule : des lignes CSV simples et un dictionnaire d'agregation.
 - J'ai compris : comment regouper plusiers lignes d'un meme produit pour obtenir un volume total fiable.
 - Si c'etait une entreprise, je deciderais : quels produits poussent reelement les ventes avant de decider quoi promouvoir ou stocker.
+
+## Day 23
+
+- Aujourd'hui, j'ai manipule : une liste de donnees journalieres et des boucles pour calculer des indicateurs simples.
+- J'ai compris : comment calculer une moyenne, trouver un minimum sans fonction integree et identifier des jours faibles.
+- Si c'etait une entreprise, je deciderais : tester une promotion ou une action marketing les jours ou la frequentation est sous la moyenne.
