@@ -135,3 +135,9 @@
 - Aujourd'hui, j'ai manipule : une liste de donnees journalieres et des boucles pour calculer des indicateurs simples.
 - J'ai compris : comment calculer une moyenne, trouver un minimum sans fonction integree et identifier des jours faibles.
 - Si c'etait une entreprise, je deciderais : tester une promotion ou une action marketing les jours ou la frequentation est sous la moyenne.
+
+## Day 24
+
+- Aujourd'hui, j'ai manipule : un dictionnaire contenant des prix produits.
+- J'ai compris : comment parcourir un dictionnaire pour calculer une moyenne, trouver un minimum et comparer des valeurs.
+- Si c'etait une entreprise, je deciderais : analyser les produits au-dessus du prix moyen pour verifier s'ils apportent assez de valeur ou s'ils doivent etre repositionnes.
