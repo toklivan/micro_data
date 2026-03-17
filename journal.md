@@ -147,3 +147,9 @@
 - Aujourd'hui, j'ai manipule : une liste de donnees sales contenant des variations d'ecriture.
 - J'ai compris : comment nettoyer de texte (strip, lower) et supprimer les doublons logiques.
 - Si c'etait une entreprise, je deciderais : nettoyer les noms produits avant toute analyse pour eviter de fausses statistiques de ventes.
+
+## Day 26
+
+- Aujourd'hui, j'ai manipule : un dictionnaire pour compter des occurences.
+- J'ai compris : comment transformer une liste en frequence de donnees et eviter les erreurs de logique entre cle et valeur.
+- Si c'etait une entreprise, je deciderais : concentrer mes efforts sur les produits les plus vendus pour maximiser le chiffre d'affaires.
