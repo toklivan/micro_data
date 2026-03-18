@@ -153,3 +153,10 @@
 - Aujourd'hui, j'ai manipule : un dictionnaire pour compter des occurences.
 - J'ai compris : comment transformer une liste en frequence de donnees et eviter les erreurs de logique entre cle et valeur.
 - Si c'etait une entreprise, je deciderais : concentrer mes efforts sur les produits les plus vendus pour maximiser le chiffre d'affaires.
+
+## Day 27
+
+- Aujourd'hui, j'ai manipule : un dictionnaire de frequences et simplifie une logique de comptage.
+- J'ai compris : comment remplacer un if/else par une methode plus concise (get) pour rendre le code plus lisible.
+- Si c'etait une entreprise, je deciderais : privilegier des scripts simples et lisables pour eviter les erreurs dans l'analyse des donnees.
+
