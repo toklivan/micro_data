@@ -160,3 +160,8 @@
 - J'ai compris : comment remplacer un if/else par une methode plus concise (get) pour rendre le code plus lisible.
 - Si c'etait une entreprise, je deciderais : privilegier des scripts simples et lisables pour eviter les erreurs dans l'analyse des donnees.
 
+## Day 28
+
+- Aujourd'hui, j'ai manipule : des donnees CSV avec prix et quantites pour calculer du chiffre d'affaires.
+- J'ai compris : comment passer de donnees brutes a un indicateur business (CA par produit).
+- Si c'etait une entreprise, je deciderais : me concentrer sur les produits qui generent le plus de chiffre d'affaires, pas seulement les plus vendus.
