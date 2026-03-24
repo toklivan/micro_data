@@ -165,3 +165,9 @@
 - Aujourd'hui, j'ai manipule : des donnees CSV avec prix et quantites pour calculer du chiffre d'affaires.
 - J'ai compris : comment passer de donnees brutes a un indicateur business (CA par produit).
 - Si c'etait une entreprise, je deciderais : me concentrer sur les produits qui generent le plus de chiffre d'affaires, pas seulement les plus vendus.
+
+## Day 29
+
+- Aujourd'hui, j'ai manipule : des donnees brutes de prix avec nettoyage et conversion.
+- J'ai compris : que des donnees mal formatees peuvent fausser tous les calculs si elles ne sont pas nettoyees.
+- Si c'etait une entreprise, je deciderais : nettoyer systematiquement les donnees avant toute analyse pour eviter des decisions basees sur des erreurs.
