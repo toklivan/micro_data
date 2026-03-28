@@ -171,3 +171,9 @@
 - Aujourd'hui, j'ai manipule : des donnees brutes de prix avec nettoyage et conversion.
 - J'ai compris : que des donnees mal formatees peuvent fausser tous les calculs si elles ne sont pas nettoyees.
 - Si c'etait une entreprise, je deciderais : nettoyer systematiquement les donnees avant toute analyse pour eviter des decisions basees sur des erreurs.
+
+## Day 30
+
+- Aujourd'hui, j'ai manipule : un CSV pour calculer des parts (%) de produits.
+- J'ai compris : qu'il faut faire attention a ne pas ecraser les donnees originales lors des transformations.
+- Si c'etait une entreprise, je deciderais : me baser sur la part de chaque produit pour prioriser les actions commerciales.
