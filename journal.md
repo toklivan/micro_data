@@ -177,3 +177,10 @@
 - Aujourd'hui, j'ai manipule : un CSV pour calculer des parts (%) de produits.
 - J'ai compris : qu'il faut faire attention a ne pas ecraser les donnees originales lors des transformations.
 - Si c'etait une entreprise, je deciderais : me baser sur la part de chaque produit pour prioriser les actions commerciales.
+
+## Day 31
+
+- Aujourd'hui, j'ai manipule : une liste de montants de commades pour calculer des indicateurs simples.
+- J'ai compris : qu'il faut faire attention a bien utiliser la bonne source de donnees selon l'objectif (liste complete vs sous-ensemble).
+- Dans la vrai vie, ce code pourrait servir a : analyser les paniers clients pour identifier les achats a forte valeur.
+- Si c'etait une entreprise, je deciderais : proposer des offres groupees pour inciter les clients a augmenter leur panier moyen.
