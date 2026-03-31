@@ -184,3 +184,10 @@
 - J'ai compris : qu'il faut faire attention a bien utiliser la bonne source de donnees selon l'objectif (liste complete vs sous-ensemble).
 - Dans la vrai vie, ce code pourrait servir a : analyser les paniers clients pour identifier les achats a forte valeur.
 - Si c'etait une entreprise, je deciderais : proposer des offres groupees pour inciter les clients a augmenter leur panier moyen.
+
+## Day 32
+
+- Aujourd'hui, j'ai manipule : une liste de dictionnaires representant des commandes.
+- J'ai compris : la difference entre comparer des valeurs brutes (quantites) et des indicateurs calcules (pourcentages).
+- Dans la vraie vie, ce code pourrait servir a : identifier les produits qui performent mal dans un catalogue.
+- Si c'etait une entreprise, je deciderais : retirer temporairement le produit le moins performant ou tester une promotion ciblee dessus pendant 1 semaine pour voir s'il peut decoller.
