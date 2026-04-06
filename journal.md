@@ -191,3 +191,10 @@
 - J'ai compris : la difference entre comparer des valeurs brutes (quantites) et des indicateurs calcules (pourcentages).
 - Dans la vraie vie, ce code pourrait servir a : identifier les produits qui performent mal dans un catalogue.
 - Si c'etait une entreprise, je deciderais : retirer temporairement le produit le moins performant ou tester une promotion ciblee dessus pendant 1 semaine pour voir s'il peut decoller.
+
+## Day 33
+
+- Aujourd'hui, j'ai manipule : une liste de dictionnaires avec nettoyage de texte et conversion de types.
+- J'ai compris : qu'une petitte erreur de syntaxe (comme une virgule) peut changer completement le type de donnee et casser toute l'analyse.
+- Dans la vraie vie, ce code pourrait servir a : nettoyer des donnees de commandes issues d'un fichier ou d'une API avant de les exploiter.
+- Si c'etait une entreprise, je deciderais : mettre en place une etape automatique de validation des donnees (nettoyage + conversion) avant tout calcul pour eviter des erreurs de reporting.
