@@ -198,3 +198,10 @@
 - J'ai compris : qu'une petitte erreur de syntaxe (comme une virgule) peut changer completement le type de donnee et casser toute l'analyse.
 - Dans la vraie vie, ce code pourrait servir a : nettoyer des donnees de commandes issues d'un fichier ou d'une API avant de les exploiter.
 - Si c'etait une entreprise, je deciderais : mettre en place une etape automatique de validation des donnees (nettoyage + conversion) avant tout calcul pour eviter des erreurs de reporting.
+
+## Day 34
+
+- Aujourd'hui, j'ai manipule : un dictionnaire d'agregation et des calculs de parts en pourcentage.
+- J'ai compris : que simplifier le code permet de le rendre plus lisible et plus facile a maintenir dans le temps.
+- Dans la vraie vie, ce code pourrait servir a : generer un rapport simple de repartition des ventes par produit.
+- Si c'etait une entreprise, je deciderais : standardiser ce type de script pour que toute l'equipe puisse rapidement identifier les produits dominants et ajuster les stocks en consequence (ex: augmenter les commandes sur apple et banana des qu'ils depassent 45% des ventes).
