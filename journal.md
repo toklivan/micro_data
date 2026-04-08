@@ -205,3 +205,10 @@
 - J'ai compris : que simplifier le code permet de le rendre plus lisible et plus facile a maintenir dans le temps.
 - Dans la vraie vie, ce code pourrait servir a : generer un rapport simple de repartition des ventes par produit.
 - Si c'etait une entreprise, je deciderais : standardiser ce type de script pour que toute l'equipe puisse rapidement identifier les produits dominants et ajuster les stocks en consequence (ex: augmenter les commandes sur apple et banana des qu'ils depassent 45% des ventes).
+
+## Day 35
+
+- Aujourd'hui, j'ai manipule : des donnees CSV avec une agregation par date.
+- J'ai compris : comment regrouper des donnees temporelles pour identifier les pics d'activite.
+- Dans la vraie vie, ce code pourrait servir a : analyser les jours de forte affluence dans un commerce ou une application.
+- Si c'etait une entreprise, je deciderais : augmenter le personnel et le stock les jours identifies comme les plus performants (ex: renforcer l'equipe le 2024-01-03 et prevoir + 30% de stock ce jour-la).
