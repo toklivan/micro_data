@@ -212,3 +212,10 @@
 - J'ai compris : comment regrouper des donnees temporelles pour identifier les pics d'activite.
 - Dans la vraie vie, ce code pourrait servir a : analyser les jours de forte affluence dans un commerce ou une application.
 - Si c'etait une entreprise, je deciderais : augmenter le personnel et le stock les jours identifies comme les plus performants (ex: renforcer l'equipe le 2024-01-03 et prevoir + 30% de stock ce jour-la).
+
+## Day 36
+
+- Aujourd'hui, j'ai manipule : une liste de commandes pour agreger du chiffre d'affaires par client
+- J'ai compris : que reutiliser les memes noms de variables peut creer des confusions et des erreurs dans le code.
+- Dans la vraie vie, ce code pourrait servie a : identifier les clients les plus rentables dans une base de donnees.
+- Si c'etait une entreprise, je deciderais : mettre en place une offre VIP (reduction ou avantage exclusif) pour les 20% de clients qui generent le plus de revenu afin de les fideliser.
