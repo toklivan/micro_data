@@ -219,3 +219,10 @@
 - J'ai compris : que reutiliser les memes noms de variables peut creer des confusions et des erreurs dans le code.
 - Dans la vraie vie, ce code pourrait servie a : identifier les clients les plus rentables dans une base de donnees.
 - Si c'etait une entreprise, je deciderais : mettre en place une offre VIP (reduction ou avantage exclusif) pour les 20% de clients qui generent le plus de revenu afin de les fideliser.
+
+## Day 37
+
+- Aujourd'hui, j'ai manipule : une liste de revenus journaliers pour analyser la performance.
+- J'ai compris : comment identifier rapidement les jours faibles en comparant a une moyenne.
+- Dans la vraie vie, ce code pourrait servir a : detecter les jours creux dans un commerce ou un site e-commerce.
+- Si c'etait une entreprise, je deciderais : lancer une promotion ciblee les jours sous la moyenne (ex: -10% le mardi et mercredi) pour lisser le chiffre d'affaires sur la semaine.
