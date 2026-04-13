@@ -226,3 +226,10 @@
 - J'ai compris : comment identifier rapidement les jours faibles en comparant a une moyenne.
 - Dans la vraie vie, ce code pourrait servir a : detecter les jours creux dans un commerce ou un site e-commerce.
 - Si c'etait une entreprise, je deciderais : lancer une promotion ciblee les jours sous la moyenne (ex: -10% le mardi et mercredi) pour lisser le chiffre d'affaires sur la semaine.
+
+## Day 38
+
+- Aujourd'hui, j'ai manipule : un dictionnaire pour calculer du chiffre d'affaires par produit.
+- J'ai compris : comment passer de donnees brutes (prix + quantite) a un indicateur business cle (CA).
+- Dans la vraie vie, ce code pourrait servir a : identifier les produits qui generent peu de revenu dans ub catalogue.
+- Si c'etait une entreprise, je deciderais : soit retirer le produit le moins rentable (orange, soit tester une action concrete comme une promotion de -20% pendant 7 jours pour voir si le volume augmente.)
