@@ -233,3 +233,10 @@
 - J'ai compris : comment passer de donnees brutes (prix + quantite) a un indicateur business cle (CA).
 - Dans la vraie vie, ce code pourrait servir a : identifier les produits qui generent peu de revenu dans ub catalogue.
 - Si c'etait une entreprise, je deciderais : soit retirer le produit le moins rentable (orange, soit tester une action concrete comme une promotion de -20% pendant 7 jours pour voir si le volume augmente.)
+
+## Day 39
+
+- Aujourd'hui, j'ai manipule : un CSV pour agreger du chiffre d'affaires par client.
+- J'ai compris : qu'il est important de separer les etapes (calcul, analyse) pour eviter les erreurs et rendre le code lisible.
+- Dans la vraie vie, ce code pourrait servir a : analyser la valeur cleint pour segmenter une base utilisateurs.
+- Si c'etait une entreprise, je deciderais : envoyer une offre personnalisee (-15% sur leur prochain achat) uniquement aux clients qui depensent le moins pour essayer d'augmenter leur panier.
