@@ -240,3 +240,10 @@
 - J'ai compris : qu'il est important de separer les etapes (calcul, analyse) pour eviter les erreurs et rendre le code lisible.
 - Dans la vraie vie, ce code pourrait servir a : analyser la valeur cleint pour segmenter une base utilisateurs.
 - Si c'etait une entreprise, je deciderais : envoyer une offre personnalisee (-15% sur leur prochain achat) uniquement aux clients qui depensent le moins pour essayer d'augmenter leur panier.
+
+## Day 40
+
+- Aujourd'hui, j'ai manipule : des donnees de commandes pour analyser le revenu par client et par produit.
+- J'ai compris : comment croiser plusieurs agregations pour obtenir une vision plus complete des poerformances.
+- Dans la vraie vie, ce code pourrait servir a : construire un mini dashboard business (clients + produits).
+- Si c'etait une entreprise, je deciderais : cibler les meilleurs clients (ex: Alice) avec une offre personnalisee ET pousser les produits les plus rentables (ex: apple) via des recommandations ou mises en avant sur le site.
